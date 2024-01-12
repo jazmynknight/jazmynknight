@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @jazmynknight
+- 👀 I’m interested in Cloud Security
+- 🌱 I’m currently learning with Networks and Network Security via Google
+- 💞️ I’m looking to collaborate on projects to catapult my learning and project experience
+- 📫 How to reach me via LinkedIn
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I am transitioning from the mental health space 🧠 and am excited to bring my soft skills from 10+ years of experience in psychology and ethical practices to this new space of cloud security
